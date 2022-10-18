@@ -1,0 +1,43 @@
+#home{
+    background-image: url('assets/images/background2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+   
+    
+   
+}
+
+.jumbotron{
+    text-align: center;
+    padding-top:100px;
+    /* padding-bottom: 90px; */
+    color:white;
+    font-size: 15px;
+   font-weight: bold;
+
+}
+
+a:link, a:visited {
+color:#000000;
+   position: relative;
+   left: 750px;
+   padding: 10px;
+   font-size: 25px;
+   text-decoration: none;
+
+    
+}
+
+#bookinglink{
+   position: relative;
+   left:-50px;
+    top: 200px;
+}
+#icon{
+    position: relative;
+    left: 850px;
+    padding-top: 10px;
+
+}
+
