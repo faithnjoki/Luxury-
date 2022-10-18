@@ -30,4 +30,4 @@ I used git as my version control and github to host my project.I have also used 
 Contact me in faithnjoki81@gmail.com for any clarification.
 
 ## live link
-
+https://faithnjoki.github.io/Luxury-/
